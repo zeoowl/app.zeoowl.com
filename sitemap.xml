@@ -3,35 +3,42 @@
 
   <url>
     <loc>https://app.zeoowl.com/</loc>
-    <lastmod>2024-02-16</lastmod>
+    <lastmod>2024-02-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
     <loc>https://app.zeoowl.com/sudoku</loc>
-    <lastmod>2024-02-16</lastmod>
+    <lastmod>2024-02-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
     <loc>https://app.zeoowl.com/live-wallpaper/aquarium</loc>
-    <lastmod>2024-02-16</lastmod>
+    <lastmod>2024-02-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
     <loc>https://app.zeoowl.com/chess-clock</loc>
-    <lastmod>2024-02-16</lastmod>
+    <lastmod>2024-02-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   <url>
     <loc>https://app.zeoowl.com/live-wallpaper/haelwic-village</loc>
-    <lastmod>2024-02-18</lastmod>
+    <lastmod>2024-02-29</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://app.zeoowl.com/live-wallpaper/tropical-island</loc>
+    <lastmod>2024-02-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
